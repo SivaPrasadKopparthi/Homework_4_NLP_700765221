@@ -3,8 +3,11 @@
 ## Homework 4 – Complete Submission
 
 **Student:** Sai Siva Shankara Vara Prasad Kopparthi
+
 **Course:** CS5760 – Natural Language Processing
+
 **Instructor:** Dr. I Hua Tsai
+
 **Semester:** Fall 2025
 
 ---
